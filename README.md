@@ -13,7 +13,9 @@ There are 3 ways to install these boards files into Arduino.
 Add this link to your boards manager. 
 
 ```
-https://raw.githubusercontent.com/oshlab/Breadboard-Arduino/master/avr/boardsmanager/package_oshlab_breadboard_index.json
+https://raw.githubusercontent.com/roshanrobotics/arduino-customboard/main/custom_board/package_arduino_index.json
+https://github.com/roshanrobotics/arduino-customboard/raw/main/custom_board/package_arduino_index.json
+
 ```
 Download through the boards manager. This is the easiest method.
 
@@ -21,7 +23,7 @@ Download through the boards manager. This is the easiest method.
 Navigate to your Arduino hardware file directory. For windows this is located in Documents/Arduino/hardware/. Clone this repository into the hardware directory using .
 
 ```
-git clone https://github.com/oshlab/breadboard.git
+git clone https://github.com/roshanrobotics/Custom-board.git
 ```
 
 #### Download ####
