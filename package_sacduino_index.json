@@ -13,7 +13,7 @@
           "architecture": "avr",
           "version": "1.6.7",
           "category": "Contributed"
-	  "url": "https://github.com/roshanrobotics/Sacduino-board.git
+	  "url": "https://github.com/roshanrobotics/Sacduino-board.git"
           "archiveFileName": "arduino-customboard-main.zip",
           "checksum": "SHA-256:292BF95852B363E03CA16BD210EB8F0CF0D090818AB3AC52ABF93086E619F717",
           "size": "4186132",
