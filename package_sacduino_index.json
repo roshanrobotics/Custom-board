@@ -12,8 +12,8 @@
           "name": "Sacduino AVR Boards",
           "architecture": "avr",
           "version": "1.6.7",
-          "category": "Contributed"
-	  "url": "https://github.com/roshanrobotics/Sacduino-board/blob/main/Sacduino-board-main.zip"
+          "category": "Contributed",
+	  "url": "https://github.com/roshanrobotics/Sacduino-board/blob/main/Sacduino-board-main.zip",
           "archiveFileName": "Sacduino-board-main.zip",
           "checksum": "SHA-256:33318988015A5DE4D5A37C6C9CDB9D7588313D5C6289C98AD638CC10712F92CE",
           "size": "4160242",
