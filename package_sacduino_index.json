@@ -2,14 +2,14 @@
   "packages":
   [
       {
-      "name": "Roshan Gupta",
+      "name": "Roshan M Gupta",
       "maintainer": "Roshan Robotics",
       "websiteURL": "https://github.com/roshanrobotics",
       "email": "support@sacchidanandutech.com",
       "platforms":
       [
         {
-          "name": "Sacduino AVR Boards",
+          "name": "jai Sacduino AVR Boards",
           "architecture": "avr",
           "version": "1.6.7",
           "category": "Contributed",
